@@ -1,0 +1,13 @@
+Context_ID,Context_Type,Description,Earliest_Date_Year,Earliest_Date_Era,Latest_Date_Year,Latest_Date_Era,Date_Type,Phase_ID,Phase_Name,Group_ID,Group_Name,Sub-Group_ID,Sub-Group_Name,Relationship_Type,Related_Context_ID,Temporal_Conflict,Is_Redundant
+"1001","layer","Layer 1 - items found contain a coin from 1910",1910,"CE",,"CE","coin","","","group_1793992788270","1001","","",,,false,
+"1002","fill","fill hole - 2 is a wall",,"CE",,"CE","","","","","","","",,,false,
+"1003","fill","fill hole - the packing material shoved into the hole to keep the wall upright at its foundation",1885,"CE",1901,"CE","pottery","","","","","","",,,false,
+"1004","layer","same identifier as layer 1",1910,"CE",,"CE","coin","","","group_1793992788270","1001","","",,,false,
+"1005","cut","dug into that first layer of soil 1",,"CE",,"CE","","","","","","","",,,false,
+"1006","structure","Floor",,"CE",,"CE","","","","","","","",,,false,
+"1007","layer","layer 7 - pottery whose style was produced from 1874 to 1890",1885,"CE",1890,"CE","pottery","","","","","","",,,false,
+"1008","cut","",,"CE",,"CE","","","","","","","",,,false,
+"1009","layer","Layer 9 - some brick and rubble with a maker's mark for a brick yard in the region active from the 1860s until sometime before the turn of the century",1860,"CE",1899,"CE","architectural","","","group_1793993851064","Group 1010","","",,,false,
+"1010","layer","Layer 10 - some brick rubble with a maker’s mark for a brick yard in the region active from the 1860s until sometime before the turn of the century",1860,"CE",1899,"CE","architectural","","","group_1793993851064","Group 1010","","",,,false,
+"1011","layer","Layer 11 - some hand-cut nails (made by a blacksmith) in a style that was present regionally from the 1830s to the 1850s",1830,"CE",1850,"CE","stratigraphic","","","group_1793993987996","Group 1011","","",,,false,
+"1012","layer","Layer 12 - some hand-cut nails (made by a blacksmith) in a style that was present regionally from the 1830s to the 1850s",1830,"CE",1850,"CE","stratigraphic","","","group_1793993987996","Group 1011","","",,,false,
